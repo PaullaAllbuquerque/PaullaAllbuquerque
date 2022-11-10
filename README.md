@@ -1,4 +1,4 @@
+Paula Albuquerque às ordens!
 
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paullaallbuquerque)](https://github.com/anuraghazra/github-readme-stats)
+8
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paullaallbuquerque&count_private=true&show_icons=true_icons=true&bg_color=1000000)](https://github.com/anuraghazra/github-readme-stats)
